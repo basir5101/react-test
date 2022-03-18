@@ -1,0 +1,11 @@
+.loading{
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.loading p{
+    margin-top: 10vh;
+    margin-left: 30px;
+}
